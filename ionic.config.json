@@ -1,0 +1,7 @@
+{
+  "name": "insCompReutilizables",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
